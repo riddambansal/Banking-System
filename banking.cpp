@@ -1,3 +1,9 @@
+// Banking System
+// In this project we create a banking system in which we keep a minimum balance of Rs.500. In this project we will create
+// an account which requires 1. First Name 2. Last Name 3. Minumum Balance. After that account is created and a specific a/c no. is made by system
+// We can deposit and withdraw our money by using a/c no.
+// User can see how many accounts are currently created
+// A user can delete his/her account.
 #include<iostream>
 #include<fstream>
 #include<cstdlib>
